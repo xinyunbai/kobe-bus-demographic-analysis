@@ -1,0 +1,7 @@
+﻿item,value
+GTFS analysis date,2026-08-20
+Population comparison,July 2019 vs July 2026
+Spatial unit,Kobe City wards / 神戸市区
+Potential need index,0.50 elderly share + 0.25 elderly change + 0.25 log population density
+Supply index,0.50 stops per 10k + 0.50 scheduled stop events per 1000
+Important limitation,GTFS-based scheduled supply does not equal actual passenger demand. Wards not covered by the feed are not classified as transport-deficient.
